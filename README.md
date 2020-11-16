@@ -117,7 +117,15 @@ model.fit(train_x, train_y)
 model.visualize("./", "exnn_demo")
 ```
 
-References
+Citations
 ----------
-Yang, Zebin, Aijun Zhang, and Agus Sudjianto. "Enhancing Explainability of
-Neural Networks through Architecture Constraints."
+Yang, Zebin, Zhang, Aijun and Sudjianto, Agus, 2020. Enhancing explainability of neural networks through architecture constraints. IEEE Transactions on Neural Networks and Learning Systems.
+```latex
+@article{yang2020enhancing,
+  title={Enhancing explainability of neural networks through architecture constraints},
+  author={Yang, Zebin and Zhang, Aijun and Sudjianto, Agus},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2020},
+  publisher={IEEE}
+}
+```
