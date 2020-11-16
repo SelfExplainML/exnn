@@ -1,4 +1,4 @@
-# Enhanced Explainable-Neural-Networks
+# ExNN: Enhanced Explainable Neural Networks
 
 ## Installation 
 
@@ -119,7 +119,8 @@ model.visualize("./", "exnn_demo")
 
 Citations
 ----------
-Yang, Zebin, Zhang, Aijun and Sudjianto, Agus, 2020. Enhancing explainability of neural networks through architecture constraints. IEEE Transactions on Neural Networks and Learning Systems.
+Yang, Zebin, Zhang, Aijun and Sudjianto, Agus, 2020. Enhancing explainability of neural networks through architecture constraints. IEEE Transactions on Neural Networks and Learning Systems. [DOI: 10.1109/TNNLS.2020.3007259](https://doi.org/10.1109/TNNLS.2020.3007259)
+
 ```latex
 @article{yang2020enhancing,
   title={Enhancing explainability of neural networks through architecture constraints},
