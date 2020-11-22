@@ -8,7 +8,7 @@ The following environments are required:
 - tensorflow 2.0
 
 ```shell
-pip install git+https://github.com/zebinyang/exnn.git
+pip install git+https://github.com/SelfExplainML/exnn.git
 ```
         
 ## Usage
